@@ -1,0 +1,11 @@
+this is first file
+
+git init
+git add index.txt 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Nishan-Pradhan06/gitubcheck.git
+git push -u origin main
+
+. sabai file ko lagi
+
