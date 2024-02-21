@@ -9,3 +9,6 @@ git push -u origin main
 
 . sabai file ko lagi
 
+git add index.txt 
+git commit -m "first commit"
+git push
